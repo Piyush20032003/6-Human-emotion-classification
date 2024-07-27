@@ -1,2 +1,2 @@
 # 6-Human-emotion-classification
-A Project to find find the emotion behind the text using Machine Learning, Deep Learning and Streamlit
+A Project to find the emotions behind the text using Machine Learning, Deep Learning and Streamlit
